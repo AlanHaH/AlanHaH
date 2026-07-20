@@ -1,102 +1,143 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=155&section=header&text=Hi%2C%20I'm%20Alan%20%F0%9F%91%8B&fontSize=40&fontColor=F0F6FC&fontAlignY=34&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20AI%20Explorer&descSize=16&descAlignY=57&animation=fadeIn" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:5865F2,100:9B5DE5&height=210&section=header&text=Hi%2C%20I'm%20Alan%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Explore&descSize=20&descAlignY=57&animation=twinkling" alt="Alan's profile header" />
 
-### 把想法写成代码，把代码做成真正可用的产品
+<a href="https://github.com/AlanHaH">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+%F0%9F%8E%93;Java+Backend+Developer+%E2%98%95;Full-Stack+Builder+%F0%9F%9A%80;AI+%2F+RAG+%2F+LLM+Explorer+%F0%9F%A4%96;Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing introduction" />
+</a>
 
-计算机 / 软件工程方向在读，专注 **Java 后端开发**，同时探索 **前端工程化** 与 **AI / LLM 应用**。  
-正在准备毕业设计与实习，希望持续构建可靠、清晰、有实际价值的软件。
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AlanHaH&label=PROFILE%20VIEWS&color=5865F2&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/AlanHaH?tab=followers"><img src="https://img.shields.io/github/followers/AlanHaH?label=FOLLOWERS&style=for-the-badge&logo=github&color=238636" alt="GitHub followers" /></a>
+  <a href="https://github.com/AlanHaH"><img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to internship" /></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlanHaH)
-[![Open to Internship](https://img.shields.io/badge/Open%20to-Internship-238636?style=flat-square&logo=handshake&logoColor=white)](https://github.com/AlanHaH)
+### 🌌 在代码世界持续升级，用技术把想法变成产品
+
+计算机 / 软件工程方向在读，专注 **Java 后端与全栈开发**，同时探索 **AI、RAG 与 LLM 应用**。  
+正在推进毕业设计并准备软件开发实习，喜欢清晰的架构、可靠的代码和真正解决问题的产品。
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-```java
-public class Alan {
-    String direction = "Software Engineering";
-    String focus = "Java Backend Development";
-    String[] exploring = {"Full-Stack Development", "AI / LLM Applications"};
-    String currentGoal = "Build my graduation project and prepare for an internship";
-}
+## 🧬 Developer DNA
+
+```javascript
+const alan = {
+  role: "Software Engineering Student",
+  focus: ["Java Backend", "Full-Stack Development", "AI Applications"],
+  exploring: ["RAG", "LLM", "Agent"],
+  currentMission: "Graduation Project + Internship Preparation",
+  superpower: "Turning curiosity into working software",
+  motto: "Keep building. Keep learning."
+};
 ```
 
-- 🔭 正在推进毕业设计，把需求分析、系统设计与工程实现串成完整闭环
-- 🌱 深入学习 Java、Spring Boot、MySQL、Redis 与前后端协作
-- 🤖 探索 LLM 应用、RAG、Agent 等 AI 工程实践
-- 🎯 近期目标：夯实基础、持续输出项目、获得软件开发实习机会
-- 💬 乐于交流后端开发、数据库设计和 AI 应用落地
+<table>
+  <tr>
+    <td>🔭 <b>正在构建</b></td>
+    <td>毕业设计与可展示的完整工程项目</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>持续深入</b></td>
+    <td>Java、Spring Boot、MySQL、Redis 与系统设计</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>探索方向</b></td>
+    <td>LLM 应用、RAG 知识库与 Agent 工程实践</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>近期目标</b></td>
+    <td>持续输出项目，获得软件开发实习机会</td>
+  </tr>
+</table>
 
-## 🧰 Tech Stack
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-**Backend & Data**
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,python,fastapi,vue,vite,js,html,css,git,github,linux&perline=8&theme=dark" alt="Technology stack icons" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<br /><br />
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**AI & Tools**
-
-![AI](https://img.shields.io/badge/AI-Applications-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-RAG%20%26%20Agent-1F6FEB?style=flat-square&logo=probot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![LLM](https://img.shields.io/badge/LLM-Application-9B5DE5?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Knowledge%20Base-5865F2?style=for-the-badge&logo=databricks&logoColor=white)
+![Agent](https://img.shields.io/badge/AI-Agent-00B4D8?style=for-the-badge&logo=probot&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Missions
 
-| Project | Description | Stack |
+<div align="center">
+
+<a href="https://github.com/AlanHaH/ai-qa-system">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=ai-qa-system&theme=tokyonight&hide_border=true&border_radius=12" alt="AI QA System repository card" />
+</a>
+<a href="https://github.com/AlanHaH/iyou-platform">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=iyou-platform&theme=tokyonight&hide_border=true&border_radius=12" alt="iYou Platform repository card" />
+</a>
+
+</div>
+
+| Project | Highlights | Stack |
 |:--|:--|:--|
-| [🤖 AI 学习资料智能问答系统](https://github.com/AlanHaH/ai-qa-system) | 上传学习资料后完成文本提取、切分、向量化与语义检索，并结合大模型生成基于资料内容的回答 | Python · FastAPI · Vue 3 · MySQL · ChromaDB · RAG |
-| [🎮 爱游平台](https://github.com/AlanHaH/iyou-platform) | 前后端分离的游戏资讯、攻略与展示平台，包含用户认证、内容管理和后台管理功能 | Spring Boot · Spring Security · JWT · MySQL · Bootstrap |
+| [🤖 AI 学习资料智能问答系统](https://github.com/AlanHaH/ai-qa-system) | 文档解析、向量化、语义检索、流式问答、知识库管理与向量数据可视化 | Python · FastAPI · Vue 3 · MySQL · ChromaDB · RAG |
+| [🎮 爱游平台](https://github.com/AlanHaH/iyou-platform) | 游戏资讯与攻略、JWT 用户认证、内容 CRUD 和后台管理 | Spring Boot · Spring Security · JWT · MySQL · Bootstrap |
 
-> 更多项目正在持续整理与构建中。每个仓库都会尽量包含清晰的 README、运行方式和开发记录。
-
-## 📊 GitHub Activity
+## 🏆 Achievement Showcase
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlanHaH&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanHaH&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
-
-<br />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AlanHaH&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-
-<br />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlanHaH&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&hide_border=true" alt="Contribution graph" />
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=AlanHaH&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
-## 📫 Let's Connect
-
-如果你对我的项目、技术学习或实习合作感兴趣，欢迎通过 GitHub 与我联系：
-
-- GitHub：[@AlanHaH](https://github.com/AlanHaH)
-- Projects：[查看我的公开仓库](https://github.com/AlanHaH?tab=repositories)
+## 📊 GitHub Universe
 
 <div align="center">
 
-<sub>Keep building. Keep learning. ✨</sub>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlanHaH&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&border_radius=12" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanHaH&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&border_radius=12" alt="Most used languages" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,55:161B22,100:0D1117&height=90&section=footer" alt="Profile footer" />
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AlanHaH&theme=tokyonight&hide_border=true&border_radius=12&date_format=%5BY.%5Dn.j" alt="GitHub contribution streak" />
+
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlanHaH&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&area_color=5865F2&hide_border=true&radius=12" alt="GitHub contribution graph" />
+
+</div>
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanHaH/AlanHaH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanHaH/AlanHaH/output/github-contribution-grid-snake.svg" />
+  <img width="96%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/AlanHaH/AlanHaH/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+想聊项目、技术学习或实习合作？欢迎查看我的仓库与代码。
+
+<br /><br />
+
+<a href="https://github.com/AlanHaH"><img src="https://img.shields.io/badge/GitHub-AlanHaH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/AlanHaH?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-5865F2?style=for-the-badge&logo=githubactions&logoColor=white" alt="Explore repositories" /></a>
+
+<br /><br />
+
+### 💫 `while (alive) { learn(); build(); improve(); }`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:5865F2,100:00C9FF&height=120&section=footer&animation=twinkling" alt="Profile footer" />
 
 </div>
