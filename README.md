@@ -57,7 +57,7 @@ const alan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,python,fastapi,vue,vite,js,html,css,git,github,linux&perline=8&theme=dark" alt="Technology stack icons" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,python,fastapi,vue,vite,js,html,css,rust,git,github,linux&perline=8&theme=dark" alt="Technology stack icons" />
 
 <br /><br />
 
@@ -79,12 +79,19 @@ const alan = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=iyou-platform&theme=tokyonight&hide_border=true&border_radius=12" alt="iYou Platform repository card" />
 </a>
 
+<br />
+
+<a href="https://github.com/AlanHaH/ClipKeep">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=ClipKeep&theme=tokyonight&hide_border=true&border_radius=12" alt="ClipKeep repository card" />
+</a>
+
 </div>
 
 | Project | Highlights | Stack |
 |:--|:--|:--|
 | [🤖 AI 学习资料智能问答系统](https://github.com/AlanHaH/ai-qa-system) | 文档解析、向量化、语义检索、流式问答、知识库管理与向量数据可视化 | Python · FastAPI · Vue 3 · MySQL · ChromaDB · RAG |
 | [🎮 爱游平台](https://github.com/AlanHaH/iyou-platform) | 游戏资讯与攻略、JWT 用户认证、内容 CRUD 和后台管理 | Spring Boot · Spring Security · JWT · MySQL · Bootstrap |
+| [📋 剪存 ClipKeep](https://github.com/AlanHaH/ClipKeep) | Windows 原生轻量剪贴板历史工具，支持全局快捷键、搜索、自动粘贴与 DPAPI 逐条加密 | Rust · Win32 · SQLite · DPAPI · PowerShell |
 
 ## 🏆 Achievement Showcase
 
