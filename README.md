@@ -113,7 +113,9 @@ const alan = {
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=AlanHaH&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies" />
+<img src="https://img.shields.io/badge/Featured%20Projects-4-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Featured projects" />
+<img src="https://img.shields.io/badge/Focus-Java%20%7C%20AI%20%7C%20RAG-9B5DE5?style=for-the-badge&logo=openai&logoColor=white" alt="Focus Java AI RAG" />
+<img src="https://img.shields.io/badge/CI-GitHub%20Actions-00B4D8?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions CI" />
 
 </div>
 
@@ -121,8 +123,10 @@ const alan = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlanHaH&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&border_radius=12" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanHaH&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&border_radius=12" alt="Most used languages" />
+<img src="https://img.shields.io/github/followers/AlanHaH?style=for-the-badge&label=Followers&color=5865F2&logo=github&logoColor=white" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/AlanHaH?style=for-the-badge&label=Total%20Stars&color=F59E0B&logo=github&logoColor=white" alt="Total repository stars" />
+<img src="https://img.shields.io/github/commit-activity/y/AlanHaH?style=for-the-badge&label=Commits%20This%20Year&color=00B4D8&logo=git&logoColor=white" alt="Commits this year" />
+<img src="https://img.shields.io/github/languages/count/AlanHaH?style=for-the-badge&label=Languages&color=9B5DE5&logo=code&logoColor=white" alt="Languages used" />
 
 <br />
 
