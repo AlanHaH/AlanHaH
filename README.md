@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:5865F2,100:9B5DE5&height=210&section=header&text=Hi%2C%20I'm%20Alan%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Explore&descSize=20&descAlignY=57&animation=twinkling" alt="Alan's profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2746,50:67506A,100:C08B8D&height=210&section=header&text=Hi%2C%20I'm%20Alan%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Explore&descSize=20&descAlignY=57&animation=twinkling" alt="Alan's profile header" />
 
 <a href="https://github.com/AlanHaH">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+%F0%9F%8E%93;Java+Backend+Developer+%E2%98%95;Full-Stack+Builder+%F0%9F%9A%80;AI+%2F+RAG+%2F+LLM+Explorer+%F0%9F%A4%96;Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing introduction" />
