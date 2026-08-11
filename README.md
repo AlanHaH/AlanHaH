@@ -75,19 +75,19 @@ const alan = {
 <div align="center">
 
 <a href="https://github.com/AlanHaH/LAgent">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=LAgent&theme=tokyonight&hide_border=true&border_radius=12" alt="LAgent repository card" />
+  <img width="48%" src="./assets/project-cards/lagent.svg" alt="LAgent repository card" />
 </a>
 <a href="https://github.com/AlanHaH/ai-qa-system">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=ai-qa-system&theme=tokyonight&hide_border=true&border_radius=12" alt="AI QA System repository card" />
-</a>
-<a href="https://github.com/AlanHaH/iyou-platform">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=iyou-platform&theme=tokyonight&hide_border=true&border_radius=12" alt="iYou Platform repository card" />
+  <img width="48%" src="./assets/project-cards/ai-qa-system.svg" alt="AI QA System repository card" />
 </a>
 
 <br />
 
+<a href="https://github.com/AlanHaH/iyou-platform">
+  <img width="48%" src="./assets/project-cards/iyou-platform.svg" alt="iYou Platform repository card" />
+</a>
 <a href="https://github.com/AlanHaH/ClipKeep">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=ClipKeep&theme=tokyonight&hide_border=true&border_radius=12" alt="ClipKeep repository card" />
+  <img width="48%" src="./assets/project-cards/clipkeep.svg" alt="ClipKeep repository card" />
 </a>
 
 </div>

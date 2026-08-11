@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" role="img" aria-labelledby="title desc">
+  <title id="title">剪存 ClipKeep</title>
+  <desc id="desc">Lightweight encrypted Windows clipboard history tool</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3f1d5a"/>
+      <stop offset="1" stop-color="#831843"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="280" rx="20" fill="url(#bg)"/>
+  <circle cx="735" cy="52" r="116" fill="#f0abfc" opacity=".13"/>
+  <text x="36" y="54" fill="#f5d0fe" font-family="Arial, sans-serif" font-size="18" font-weight="700">FEATURED PROJECT</text>
+  <text x="36" y="100" fill="#ffffff" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="700">📋 剪存 ClipKeep</text>
+  <text x="36" y="134" fill="#fae8ff" font-family="Arial, Microsoft YaHei, sans-serif" font-size="18">离线剪贴板历史 · 全局快捷键 · DPAPI 加密</text>
+  <rect x="36" y="208" width="92" height="34" rx="17" fill="#f43f5e"/>
+  <text x="82" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Rust</text>
+  <rect x="138" y="208" width="104" height="34" rx="17" fill="#7c3aed"/>
+  <text x="190" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Win32</text>
+  <rect x="252" y="208" width="104" height="34" rx="17" fill="#db2777"/>
+  <text x="304" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">SQLite</text>
+  <rect x="366" y="208" width="104" height="34" rx="17" fill="#9333ea"/>
+  <text x="418" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">DPAPI</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" role="img" aria-labelledby="title desc">
+  <title id="title">AI 学习资料智能问答系统</title>
+  <desc id="desc">Document question answering system built with RAG</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="280" rx="20" fill="url(#bg)"/>
+  <circle cx="745" cy="58" r="112" fill="#5eead4" opacity=".12"/>
+  <text x="36" y="54" fill="#99f6e4" font-family="Arial, sans-serif" font-size="18" font-weight="700">FEATURED PROJECT</text>
+  <text x="36" y="100" fill="#ffffff" font-family="Arial, Microsoft YaHei, sans-serif" font-size="29" font-weight="700">AI 学习资料智能问答系统</text>
+  <text x="36" y="134" fill="#ccfbf1" font-family="Arial, Microsoft YaHei, sans-serif" font-size="17">文档解析 · 向量检索 · 流式问答 · 知识库</text>
+  <rect x="36" y="208" width="132" height="34" rx="17" fill="#14b8a6"/>
+  <text x="102" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">FastAPI</text>
+  <rect x="178" y="208" width="112" height="34" rx="17" fill="#6366f1"/>
+  <text x="234" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Vue 3</text>
+  <rect x="300" y="208" width="132" height="34" rx="17" fill="#f97316"/>
+  <text x="366" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">ChromaDB</text>
+  <rect x="442" y="208" width="86" height="34" rx="17" fill="#0ea5e9"/>
+  <text x="485" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">RAG</text>
+</svg>

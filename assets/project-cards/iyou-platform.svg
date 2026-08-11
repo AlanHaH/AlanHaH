@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" role="img" aria-labelledby="title desc">
+  <title id="title">爱游平台</title>
+  <desc id="desc">Game information and guide platform</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#451a03"/>
+      <stop offset="1" stop-color="#9a3412"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="280" rx="20" fill="url(#bg)"/>
+  <circle cx="742" cy="50" r="120" fill="#fbbf24" opacity=".14"/>
+  <text x="36" y="54" fill="#fed7aa" font-family="Arial, sans-serif" font-size="18" font-weight="700">FEATURED PROJECT</text>
+  <text x="36" y="100" fill="#ffffff" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="700">🎮 爱游平台</text>
+  <text x="36" y="134" fill="#ffedd5" font-family="Arial, Microsoft YaHei, sans-serif" font-size="18">游戏资讯 · 攻略内容 · 用户认证 · 管理后台</text>
+  <rect x="36" y="208" width="170" height="34" rx="17" fill="#f97316"/>
+  <text x="121" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Spring Boot</text>
+  <rect x="216" y="208" width="168" height="34" rx="17" fill="#dc2626"/>
+  <text x="300" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Spring Security</text>
+  <rect x="394" y="208" width="96" height="34" rx="17" fill="#eab308"/>
+  <text x="442" y="230" text-anchor="middle" fill="#422006" font-family="Arial, sans-serif" font-size="14" font-weight="700">JWT</text>
+</svg>
