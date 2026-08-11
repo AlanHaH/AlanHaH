@@ -65,6 +65,8 @@ const alan = {
 ![RAG](https://img.shields.io/badge/RAG-Knowledge%20Base-5865F2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Agent](https://img.shields.io/badge/AI-Agent-00B4D8?style=for-the-badge&logo=probot&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Vector%20DB-Qdrant-00B4D8?style=for-the-badge&logo=qdrant&logoColor=white)
+![MCP](https://img.shields.io/badge/Integration-MCP-5865F2?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -72,6 +74,9 @@ const alan = {
 
 <div align="center">
 
+<a href="https://github.com/AlanHaH/LAgent">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=LAgent&theme=tokyonight&hide_border=true&border_radius=12" alt="LAgent repository card" />
+</a>
 <a href="https://github.com/AlanHaH/ai-qa-system">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanHaH&repo=ai-qa-system&theme=tokyonight&hide_border=true&border_radius=12" alt="AI QA System repository card" />
 </a>
@@ -89,9 +94,20 @@ const alan = {
 
 | Project | Highlights | Stack |
 |:--|:--|:--|
+| [🧠 知序 LAgent](https://github.com/AlanHaH/LAgent) | AI 学习画像、目标推荐、受约束计划、文档知识库、OCR、带引用 RAG 问答、微信读书 MCP、学习块闭环、任务执行与评估 | Java · Spring Boot · Python · FastAPI · Vue 3 · MySQL · Redis · Qdrant · Docker |
 | [🤖 AI 学习资料智能问答系统](https://github.com/AlanHaH/ai-qa-system) | 文档解析、向量化、语义检索、流式问答、知识库管理与向量数据可视化 | Python · FastAPI · Vue 3 · MySQL · ChromaDB · RAG |
 | [🎮 爱游平台](https://github.com/AlanHaH/iyou-platform) | 游戏资讯与攻略、JWT 用户认证、内容 CRUD 和后台管理 | Spring Boot · Spring Security · JWT · MySQL · Bootstrap |
 | [📋 剪存 ClipKeep](https://github.com/AlanHaH/ClipKeep) | Windows 原生轻量剪贴板历史工具，支持全局快捷键、搜索、自动粘贴与 DPAPI 逐条加密 | Rust · Win32 · SQLite · DPAPI · PowerShell |
+
+### 🧠 当前旗舰项目：知序 LAgent
+
+一个面向个人学习的全栈 AI Agent 系统，把“了解自己、设定目标、生成计划、学习资料、执行任务、诊断评估”串成可追踪的闭环。项目重点不是让模型直接替用户做决定，而是让 AI 负责提案、解释与检索，后端负责权限、状态、版本、校验和正式发布。
+
+- **学习路径**：AI 画像访谈、目标推荐、受约束排期、计划版本、差异校验、二次确认和可靠发布。
+- **知识与阅读**：私有知识库、文档解析、OCR、分块向量化、混合检索、带引用问答，以及微信读书 MCP 接入。
+- **学习执行**：学习块、块内练习与块测、任务知识图谱、前置依赖、计时、笔记版本、学习总结和持久化辅导会话。
+- **评估与治理**：诊断评估、错题订正、主观题异步批改、学习报告、模型运行记录、提示词版本和管理员复核。
+- **工程实践**：Java 模块化单体 + Python AI 服务 + Vue 3 前端，配套 MySQL、Redis、Qdrant、Docker Compose、SSE、Flyway 和 GitHub Actions CI。
 
 ## 🏆 Achievement Showcase
 
